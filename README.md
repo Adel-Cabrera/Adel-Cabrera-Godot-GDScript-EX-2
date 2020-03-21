@@ -1,4 +1,4 @@
-# Adel-Cabrera-Godot-GDScript-EX-2
+# Godot-GDScript-EX-2
 Finished game project in GDScript
 
 > python3 -m http.server 8000
